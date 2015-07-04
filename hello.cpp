@@ -6,4 +6,5 @@ int main()
         printf("haha");
         printf("haha");
         printf("master")
+        printf("dd")
 }
