@@ -5,4 +5,5 @@ int main()
         printf("good\n");
         printf("haha");
         printf("haha");
+        printf("master")
 }
