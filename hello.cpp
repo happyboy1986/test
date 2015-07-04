@@ -7,4 +7,5 @@ int main()
         printf("haha");
         printf("master")
         printf("dd")
+        printf("eee")
 }
