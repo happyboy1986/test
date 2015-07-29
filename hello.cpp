@@ -9,4 +9,5 @@ int main()
         printf("dd")
         printf("eee")
         printf("111");
+        printf("222");
 }
